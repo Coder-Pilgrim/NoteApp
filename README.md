@@ -1,4 +1,4 @@
-# lab9
+# Note App
 
 A new Flutter project.
 
